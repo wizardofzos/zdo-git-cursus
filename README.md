@@ -16,4 +16,7 @@ Then open your browser to:
 
     http://localhost:5000
 
+## Make sure you have setup GIT
+git config --global user.name="...."
+git config --global user.email="...."
 
